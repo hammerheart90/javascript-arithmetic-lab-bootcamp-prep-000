@@ -26,4 +26,6 @@ function makeInt(n) {
 parseInt("100", 10)
 }
 
-function 
+function preserveDecimal(n) {
+parseInt('66.6666', 10) }
+
