@@ -23,10 +23,10 @@ return --(n)
 }
 
 function makeInt(n) {
-parseInt("100")
+parseInt('100')
 }
 
 function preserveDecimal(n) {
-parseFloat('66.6666', 10) 
+parseFloat('66.6666') 
 }
 
