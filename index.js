@@ -23,5 +23,5 @@ return (n--)
 }
 
 function makeInt(n) {
-parseInt()
+parseInt("100")
 }
