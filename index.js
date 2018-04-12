@@ -21,3 +21,7 @@ return (n++)
 function inc(n) {
 return (n--)
 }
+
+function makeInt(n) {
+return (n++)
+}
