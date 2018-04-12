@@ -27,6 +27,6 @@ parseInt("100")
 }
 
 function preserveDecimal(n) {
-parseInt('66.6666', 10) 
+parseFloat('66.6666', 10) 
 }
 
